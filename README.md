@@ -62,8 +62,9 @@ pip install opencv-python mediapipe numpy matplotlib
 - Studying **postural coordination** during development.
 
 ## Contributors
-- **Project Developer:** [Your Name]
-- **Reference Paper:** [Include citation if applicable]
+- **Project Developer:** Emerson
+- **Reference Paper:**  Cerebral palsy detection from infant using movements 
+of their salient body parts and a feature fusion model(https://doi.org/10.1007/s11227-024-06520-z)
 
 ## License
 This project is open-source and can be modified or extended for research purposes.
